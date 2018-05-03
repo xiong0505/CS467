@@ -18,18 +18,20 @@ Week3-4: Javascript + LaTeX --> PDF
 4. Inside folder CS467: README.md , signature.png , latex.js , Awardtest.tex
 to do: pdflatex generates a lot of intermediate files xx.aux, xx.fls e.g, think of a way to get rid of it.
 
+
 Week4-5:Note.js Email + clean up the directory
-visual studio code
+edittor recommendation from Peng that is easy and light-load:visual studio code
 1.Sign up for gmail account: 
  PheonixWeb3@gmail.com   12345678.p
 2.Major instruction: https://www.w3schools.com/nodejs/nodejs_email.asp
 3.npm install nodemailer for sending out email
-
-
 4.npm install node-uuid for clean up the directory
 5.npm install rimraf for clean up the directory
 
 
+Week5-6:
+1.Edit sendMail.js to accept variables
+2.Creat sendMailWithoutAttachment.js which accept variables but no attachemnt : Nina's finding password through email
 
 
 
