@@ -1,0 +1,4 @@
+PWD C:/Users/junyi/Documents/GitHub/CS467
+INPUT C:/Users/junyi/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT Awardtest.tex
+OUTPUT Awardtest.log

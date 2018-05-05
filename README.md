@@ -32,7 +32,7 @@ edittor recommendation from Peng that is easy and light-load:visual studio code
 Week5-6:
 1.Edit sendMail.js to accept variables
 2.Creat sendMailWithoutAttachment.js which accept variables but no attachemnt : Nina's finding password through email
-
+3. Edit Latex to allow it to accept variables, and then generate a Awardtest.tex file that can be used to transfered into pdf
 
 
 
