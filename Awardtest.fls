@@ -2,3 +2,72 @@ PWD C:/Users/junyi/Documents/GitHub/CS467
 INPUT C:/Users/junyi/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
 INPUT Awardtest.tex
 OUTPUT Awardtest.log
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
+OUTPUT Awardtest.aux
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvsetkeys.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvsetkeys.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/etexcmds.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/etexcmds.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifluatex.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifluatex.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/pdftexcmds.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/pdftexcmds.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT Signature.png
+INPUT ./Signature.png
+OUTPUT Awardtest.pdf
+INPUT ./Signature.png
+INPUT ./Signature.png
+INPUT ./Signature.png
+INPUT C:/Users/junyi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT Awardtest.aux
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT C:/Users/junyi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb

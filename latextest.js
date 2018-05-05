@@ -28,7 +28,7 @@ content+="\\end{center}\n\n";
 content+="\\end{document}"
 
 
-fs.writeFile("Awardtest.tex",content,function(err){
+fs.writeFileSync("Awardtest.tex",content,function(err){
 	if(err){return console.log(err);}
 	console.log("The file was saved!");
 });
