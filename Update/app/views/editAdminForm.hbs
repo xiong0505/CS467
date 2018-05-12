@@ -1,0 +1,23 @@
+<script>
+function saveEdit(event){
+		
+	var form = document.getElementById( "editAdminForm" );
+	
+	var id = {{id}};
+	var email = form.email.value;
+	var company = form.company.value;
+	//alert(
+	window.location.href = "/safe-admin-update?id=" + id + "&email=" + email + "&company=" + company;
+	
+	event.preventDefault( );
+
+}
+</script>
+<form id="editAdminForm">
+		<fieldset>
+			<legend>Edit User</legend>
+			<p>Email: <input id="email" type="text" name="email" value="{{email}}"/></p>
+			<p>Company: <input id="company" type="text" name="company" value="{{company}}"/></p>
+		</fieldset>
+		<input id="save" type="submit" name="update" value="Update Admin" onclick="saveEdit(event);" />
+</form>

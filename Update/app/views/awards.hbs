@@ -1,0 +1,44 @@
+<h1>Award Reporting</h1>
+
+{{#if results}}
+<table class="dataTable" id="award_entry">
+	<tr>
+    <button>Search Awards</button>
+    <input type="text" id="firstName" onkeyup="searchAwards()" placeholder="First Name">
+		<th>First Name</th>
+    <input type="text" id="lastName" onkeyup="searchAwards()" placeholder="Last Name">
+		<th>Last Name</th>
+    <input type="text" id="email" onkeyup="searchAwards()" placeholder="Email">
+		<th>Email</th>
+    <input type="text" id="date" onkeyup="searchAwards()" placeholder="Date">
+		<th>Date</th>
+    <input type="text" id="type" onkeyup="searchAwards()" placeholder="Type">
+    <th>Type</th>
+    <input type="text" id="region" onkeyup="searchAwards()" placeholder="Region">
+    <th>Region</th>
+    <input type="text" id="createdBy" onkeyup="searchAwards()" placeholder="Created By">
+    <th>Created By</th>
+	</tr>
+
+  {{#each results}}
+  	<tr>
+    	<input type="hidden" value="{{this.id}}">
+  		<td>{{this.recipient_fname}}</td>
+  		<td>{{this.recipient_lname}}</td>
+  		<td>{{this.email}}</td>
+  		<td>{{this.date}}</td>
+      <td>{{this.type}}</td>
+      <td>{{this.region}}</td>
+      <td>{{this.createdBy}}</td>
+	</tr>
+
+  {{/each}}
+  
+</table>
+{{/if}}
+
+<button onclick="exportTableToCSV('awards.csv')">Export To CSV File</button>
+<button onclick="userAwards()">Awards By Creator</button>
+<button onclick="regionAwards()">Awards By Region</button>
+<button onclick="typeAwards()">Awards By Type</button>
+<script src="adminScript.js"></script>

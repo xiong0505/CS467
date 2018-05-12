@@ -1,0 +1,17 @@
+{
+  "development": {
+
+    "username": "root",
+    "password": "AncientSun22!",
+    "database": "phoenix",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "",
+    "password": null,
+    "database": "",
+    "host": "",
+    "dialect": "mysql"
+  }
+}

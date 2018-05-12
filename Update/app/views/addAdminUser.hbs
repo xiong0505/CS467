@@ -1,0 +1,17 @@
+<h1>Add Admin User</h1>
+
+<form id="adminForm">
+		<fieldset>
+			<legend>Add Admin User</legend>
+			<p>Email: <input id="email" type="text" name="email"/></p>
+			<p>Password: <input  id="password" type="text" name="password"/></p>
+			<p>Company: <select name="company" id="company">
+				{{#each companies}}
+					<option>{{this}}</option>
+				{{/each}}
+			</select>
+		</fieldset>
+		<input id="addAdminUser" type="submit" name="add" value="Add Admin User" onclick="addAdminRow()" />
+</form>
+
+<script src="adminScript.js"></script>

@@ -1,0 +1,24 @@
+<h1>Edit/Delete Admin User</h1>
+
+{{#if results}}
+<table id="admin_user">
+	<tr>
+		<th>Email</th>
+		<th>Company</th>
+	</tr>
+
+  {{#each results}}
+  	<tr>
+    	<input type="hidden" value="{{this.id}}">
+  		<td>{{this.email}}</td>
+  		<td>{{this.company}}</td>
+  		<td><input type="button" value="Delete" onclick="deleteAdminRow('admin_user', this)"></td>
+  		<td><input type="button" value="Edit" onclick="editAdminRow('admin_user', this)"></td>
+	</tr>
+
+  {{/each}}
+  
+</table>
+{{/if}}
+
+<script src="adminScript.js"></script>

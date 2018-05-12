@@ -1,0 +1,27 @@
+<script>
+function saveEdit(event){
+		
+	var form = document.getElementById( "editForm" );
+	
+	var id = {{id}};
+	var fname = form.fname.value;
+	var lname = form.lname.value;
+	var email = form.email.value;
+	var company = form.company.value;
+	//alert(
+	window.location.href = "/safe-update?id=" + id +"&fname=" + fname + "&lname=" + lname + "&email=" + email + "&company=" + company;
+	
+	event.preventDefault( );
+
+}
+</script>
+<form id="editForm">
+		<fieldset>
+			<legend>Edit User</legend>
+			<p>First Name: <input id="fname" type="text" name="fname" value="{{fname}}"/></p>
+			<p>Last Name: <input  id="lname" type="text" name="lname" value="{{lname}}"/></p>
+			<p>Email: <input id="email" type="text" name="email" value="{{email}}"/></p>
+			<p>Company: <input id="company" type="text" name="company" value="{{company}}"/></p>
+		</fieldset>
+		<input id="save" type="submit" name="update" value="Update User" onclick="saveEdit(event);" />
+	</form>
