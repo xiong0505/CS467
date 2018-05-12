@@ -27,12 +27,16 @@ content+="\\end{center}\n\n";
 
 content+="\\end{document}"
 
-
+// the problem may come from this part
+/*
 fs.writeFileSync("Awardtest.tex",content,function(err){
 	if(err){return console.log(err);}
 	console.log("The file was saved!");
 });
+*/
 
+//this is the updated part
+fs.writeFileSync("Awardtest.tex",content);
 
 const { spawnSync } = require('child_process');
 
