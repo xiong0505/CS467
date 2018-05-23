@@ -60,6 +60,7 @@ function getTempFileName(extension) {
     return name;
 }
 
+//PDF's name
 var pdfFileName = getTempFileName(".pdf");
 
 //taking variables from user
