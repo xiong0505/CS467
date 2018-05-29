@@ -34,6 +34,13 @@ Week5-6:
 2.Creat sendMailWithoutAttachment.js which accept variables but no attachemnt : Nina's finding password through email
 3. Edit Latex to allow it to accept variables, and then generate a Awardtest.tex file that can be used to transfered into pdf
 
+Mid-Point Check Week:
+There are some problems with installing latex into Amazon EC2 and Digital Ocean Ubuntu. 
+I tried to get into the EC2 instance, and tried to install on Amazon EC2, and was not successful.
+And then I tried to intall into Ubuntu, and I found there are some other issues with it. So I let it go.
+
+Week 8: Generate PDF with Node.js directly
+1. npm install pdfkit
 
 
 
