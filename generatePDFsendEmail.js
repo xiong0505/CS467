@@ -10,7 +10,7 @@ var emailText='Congratulations! You have won an award!';
 var awardType="You have won Employee of the Month!";
 var awardReceiver="Nina";
 var awardAuthorizer="Xiong";
-var getSigPic="Signature.png"
+var getSigPic="signature3.png"
 var sigPic="app/public/"+getSigPic;
 var receiver="phoenixweb3@gmail.com";
 

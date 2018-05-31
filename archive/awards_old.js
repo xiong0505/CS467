@@ -76,7 +76,7 @@ function buildContent(doc, content, row, col) {
 
 // build signature
 function buildSignature(doc, imageFile, row, col) {
-    doc.image(imageFile, 200, 400, { width:200, height:150 });
+    doc.image(imageFile, col, row, { scale: 0.07 });
 }
 
 // Function that build pdf file
